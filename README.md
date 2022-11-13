@@ -3,5 +3,5 @@ ClearItem is a plugin for SCP sl servers under the [synapse loader](https://gith
 
 ## Installation
 1. [Install Synapse](https://github.com/SynapseSL/Synapse/wiki#hosting-guides).
-2. Place the plugins dll in your plugin directory.
+2. Place the plugin dll in your plugin directory.
 3. Restart/Start your server.
